@@ -289,7 +289,7 @@ MIT License - see LICENSE file for details
 ---
 
 ## 👥 Contributors
-- Your Name - Initial work
+- Sai Sampath Ayalasomayajula - Initial work
 
 ---
 
